@@ -1,6 +1,5 @@
-# Wildlife-Species-Detection
+# Wildlife Species Detection using Camera Trap Images
 To develop a system that automatically identifies and classifies wildlife species from camera trap images using image processing and machine learning techniques.
-
 <p align="center">
   <img src="./demo/demo.gif" alt="Demo GIF">
 </p>
@@ -49,7 +48,6 @@ The dataset used in this project consists of labeled images of 10 different anim
     └── logs/
         └── log.log
 
-    
 
 ## Getting Started
 Follow theses steps to set up the environment and run the application.
