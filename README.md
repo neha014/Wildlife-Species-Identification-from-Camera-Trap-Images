@@ -1,4 +1,4 @@
-# Real-Time-Animal-Species-Detection
+# Wildlife Species Detection (DNA Project)
 The aim of this project is to develop an efficient computer vision model capable of real-time wildlife detection.
 
 <p align="center">
