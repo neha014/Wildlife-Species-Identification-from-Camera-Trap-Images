@@ -20,33 +20,34 @@ The dataset used in this project consists of labeled images of 10 different anim
 - [Dataset 2](https://www.kaggle.com/datasets/brsdincer/danger-of-extinction-animal-image-set)
 - [Dataset 3](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset )
 
-Project Structure
-│
-├── .dvcignore
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── yolov8n.pt
-│
-├── .streamlit/
-│   └── config.toml
-│
-├── config/
-│   └── custom.yaml
-│
-├── images/
-│   ├── chee.jpg
-│   ├── ele.jpg
-│   ├── fox.jpg
-│   ├── lion.jpg
-│   ├── paan.jpg
-│   ├── rhino.jpg
-│   ├── tiger.jpg
-│   ├── turt.jpg
-│   └── ze.jpg
-│
-└── logs/
-    └── log.log
+## Project Structure
+    
+    Wildlife-Species-Detection/
+    ├── .dvcignore
+    ├── .gitignore
+    ├── README.md
+    ├── requirements.txt
+    ├── yolov8n.pt
+    │
+    ├── .streamlit/
+    │   └── config.toml
+    │
+    ├── config/
+    │   └── custom.yaml
+    │
+    ├── images/
+    │   ├── chee.jpg
+    │   ├── ele.jpg
+    │   ├── fox.jpg
+    │   ├── lion.jpg
+    │   ├── paan.jpg
+    │   ├── rhino.jpg
+    │   ├── tiger.jpg
+    │   ├── turt.jpg
+    │   └── ze.jpg
+    │
+    └── logs/
+        └── log.log
 
     
 
