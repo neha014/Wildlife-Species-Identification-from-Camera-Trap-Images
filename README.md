@@ -1,20 +1,16 @@
 # Wildlife Species Detection using Camera Trap Images
 To develop a system that automatically identifies and classifies wildlife species from camera trap images using image processing and machine learning techniques.
-<p align="center">
-  <img src="./demo/demo.gif" alt="Demo GIF">
-</p>
 
 ## Table of Contents
 - [Datasets](#datasets)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Evaluation](#evaluation)
-- [Web App](#web-app)
 - [Contirbuting](#contributing)
 - [Author](#author)
 
 ## Datasets
-The dataset used in this project consists of labeled images of 10 different animal classes: Buffalo, Cheetahs, Deer, Elephant, Fox, Jaguars, Lion, Panda, Tiger, Zebra. You can find the datasets: 
+The dataset utilized in this project contains labeled images representing 10 animal species: Buffalo, Cheetah, Deer, Elephant, Fox, Jaguar, Lion, Panda, Tiger, and Zebra. The datasets can be accessed at:
 - [Dataset 1](https://www.kaggle.com/datasets/biancaferreira/african-wildlife)
 - [Dataset 2](https://www.kaggle.com/datasets/brsdincer/danger-of-extinction-animal-image-set)
 - [Dataset 3](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset )
