@@ -1,0 +1,67 @@
+2025-10-15 11:40:35,488:INFO:root:Detected Image
+2025-10-15 11:41:03,070:INFO:root:Detected Image
+2025-10-15 11:41:22,667:INFO:root:Detected Image
+2025-10-15 11:41:39,131:INFO:root:Detected Image
+2025-10-15 11:41:45,746:INFO:root:Detected Image
+2025-10-15 11:41:56,377:INFO:root:Detected Image
+2025-10-15 11:42:07,113:INFO:root:Detected Image
+2025-10-15 13:03:28,622:INFO:root:Detected Image
+2025-10-15 13:03:35,292:INFO:root:Detected Image
+2025-10-15 13:04:38,893:INFO:root:Detected Image
+2025-10-15 13:05:38,517:INFO:root:Detected Image
+2025-10-15 13:06:18,121:INFO:root:Detected Image
+2025-10-15 13:15:28,344:INFO:root:Detected Image
+2025-10-15 18:56:28,676:INFO:root:Detected Image
+2025-10-15 19:03:49,452:INFO:root:Detected Image
+2025-10-15 19:03:58,549:INFO:root:Detected Image
+2025-10-15 19:04:03,506:INFO:root:Detected Image
+2025-10-15 19:04:15,529:INFO:root:Detected Image
+2025-10-15 19:04:25,075:INFO:root:Detected Image
+2025-10-17 15:01:04,976:INFO:root:Detected Image
+2025-10-17 15:01:14,126:INFO:root:Detected Image
+2025-10-17 15:01:21,799:INFO:root:Detected Image
+2025-10-24 14:14:21,752:INFO:root:Predicted: elefante (90.37%)
+2025-10-24 14:14:36,465:INFO:root:Predicted: gatto (97.93%)
+2025-10-24 14:14:50,975:INFO:root:Predicted: cane (97.01%)
+2025-10-24 14:15:14,234:INFO:root:Predicted: gatto (45.94%)
+2025-10-24 14:15:52,986:INFO:root:Predicted: cavallo (27.63%)
+2025-10-24 21:39:37,204:INFO:root:Detected Tiger with confidence 0.16
+2025-10-24 21:39:49,012:INFO:root:Detected Tiger with confidence 0.91
+2025-10-24 21:39:55,592:INFO:root:Detected Tiger with confidence 0.42
+2025-10-24 21:40:07,987:INFO:root:Detected Elephant with confidence 0.98
+2025-10-24 21:41:14,518:INFO:root:Detected Peacock with confidence 0.46
+2025-10-24 21:41:22,874:INFO:root:Detected Tiger with confidence 0.25
+2025-10-24 21:41:38,159:INFO:root:Detected Jaguar with confidence 0.45
+2025-10-24 21:41:46,370:INFO:root:Detected Tiger with confidence 0.49
+2025-10-25 14:11:38,921:INFO:root:Detected Tiger with confidence 0.25
+2025-10-25 14:11:45,370:INFO:root:Detected Peacock with confidence 0.46
+2025-10-25 14:12:12,859:INFO:root:Detected Tiger with confidence 0.42
+2025-10-25 14:12:21,527:INFO:root:Detected Elephant with confidence 0.98
+2025-10-25 14:12:28,957:INFO:root:Detected Tiger with confidence 0.41
+2025-10-25 23:30:33,637:INFO:root:Detected Jaguar with confidence 0.58
+2025-10-25 23:31:00,141:INFO:root:Detected turtle with confidence 1.00
+2025-10-25 23:31:13,550:INFO:root:Detected turtle with confidence 1.00
+2025-10-25 23:31:26,421:INFO:root:Detected Peacock with confidence 0.46
+2025-10-25 23:31:32,741:INFO:root:Detected Tiger with confidence 0.25
+2025-10-25 23:31:41,869:INFO:root:Detected Tiger with confidence 0.41
+2025-10-28 22:59:50,555:INFO:root:Detected Tiger with confidence 0.99
+2025-10-28 23:00:28,669:INFO:root:Detected Elephant with confidence 0.98
+2025-10-28 23:02:07,933:INFO:root:Detected Elephant with confidence 0.87
+2025-10-28 23:02:36,551:INFO:root:Detected Elephant with confidence 0.45
+2025-10-28 23:03:58,990:INFO:root:Detected Peacock with confidence 0.47
+2025-10-28 23:04:12,713:INFO:root:Detected Jaguar with confidence 0.24
+2025-10-28 23:04:45,284:INFO:root:Detected Tiger with confidence 0.20
+2025-10-28 23:07:00,638:INFO:root:Detected Dear with confidence 0.85
+2025-10-28 23:07:53,772:INFO:root:Detected Tiger with confidence 0.94
+2025-10-28 23:08:08,334:INFO:root:Detected Elephant with confidence 0.19
+2025-10-28 23:08:28,011:INFO:root:Detected Tiger with confidence 0.43
+2025-10-28 23:10:24,625:INFO:root:Detected Tiger with confidence 0.33
+2025-10-28 23:10:53,925:INFO:root:Detected Elephant with confidence 0.50
+2025-10-28 23:11:20,215:INFO:root:Detected Lion with confidence 0.37
+2025-10-28 23:11:54,635:INFO:root:Detected Elephant with confidence 0.98
+2025-10-28 23:12:09,100:INFO:root:Detected Tiger with confidence 0.42
+2025-10-28 23:12:23,420:INFO:root:Detected Tiger with confidence 0.91
+2025-10-28 23:14:29,979:INFO:root:Detected Jaguar with confidence 0.51
+2025-10-28 23:14:38,503:INFO:root:Detected Dear with confidence 0.85
+2025-11-17 23:54:33,794:INFO:root:Detected Goat with confidence 0.18
+2025-11-17 23:55:20,901:INFO:root:Detected Elephant with confidence 0.90

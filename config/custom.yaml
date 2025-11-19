@@ -1,0 +1,23 @@
+# Dataset root directory
+path: ../data
+
+# Image folder paths (relative to 'path')
+train: images/train
+val: images/val
+test: images/test
+
+# Number of classes
+nc: 10
+
+# Class names
+names:
+  0: Buffalo
+  1: Elephant
+  2: Rhino
+  3: Zebra
+  4: Cheetah
+  5: Fox
+  6: Jaguar
+  7: Tiger
+  8: Lion
+  9: Panda
